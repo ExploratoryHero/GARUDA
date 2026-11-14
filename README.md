@@ -1,7 +1,7 @@
 # GARUDA
-A slow but fast F3F glider
 
 <img width="2234" height="1165" alt="grafik" src="https://github.com/user-attachments/assets/c885fdb4-80f1-4e84-ba7d-4d7d2232d3ff" />
+<p><em>A slow but fast F3F glider</em></p>
 
 <h2>introduction</h2>
 Lets describe this glider as a VJX.glide on steroids. Why? The current philosophie in F3F competition is to have 2 types of gliders in your lineup. One for very fast conditions (40-45s and below to world record time) and one for light to mid conditions (40-45 and above). This philosophy is explained superbly in the documentation of the VJX-project from <a href=https://github.com/jxjo>JxJo</a> & friends. Since the TAIPAN (based on <a href=https://github.com/jxjo/VJX/tree/main/wing.race>VJX.race</a> and the <a href=https://github.com/jxjo/Airfoils/tree/main/JX-GS>JX-GS3 airfoils</a>) is my current glider for fast conditions i am in dire need of a modern glider purely designed for light conditions. The concept of <a href=https://github.com/jxjo/Airfoils/tree/main/JX-GT>JX-GT</a> airfoils (<a href=https://competition-tools.com/Flugmodelle/MAMBA-Serie/MAMBA-GT/>MAMBA GTE</a>, ENKI) is a step in the right direction, but it is not maxed out for international competition tasks. To simply copy a <a href=https://github.com/jxjo/VJX/tree/main/wing.glide>VJX.glide</a> would be boring too and no progress would be made. So what needs to be changed, to get even better in said light conditions? Turns out the factor of aspect ratio seems to massively helps (at least theoretically) in these conditions, so this needs to be tried. I will document this process in this project.
@@ -13,11 +13,11 @@ The result should be a glider perfectly suited for slow F3F (hence a slow fast g
 Airfoils of the project can be found here <a href="https://github.com/jxjo/Airfoils">HERE</a>
 
 <img width="2204" height="766" alt="grafik" src="https://github.com/user-attachments/assets/34acf810-af5f-4f1d-b788-afc262fa3858" />
-Re250k polars, with reference to TAIPAN, key performance parameter for TOW 2,3kg
+<p><em>Re250k polars, with reference to TAIPAN, key performance parameter for TOW 2,3kg</em></p>
 <br>
 <p></p>
 <img width="2238" height="317" alt="grafik" src="https://github.com/user-attachments/assets/72e25f20-5ef1-4dd1-83ef-b1a860aef981" />
-theoretical CL/CD performance gap to VJX.glide @250k/15m/s
+<p><em>theoretical CL/CD performance gap to VJX.glide @250k/15m/s</em></p>
 <br>
 <p></p>
 While the cld/cd calculations predict a 2-5% better performance compared to the current top model (VJX.glide) and also TAIPAN, theres still the risk that moving such a huge ship in low lift conditions requires more force then is gained through the form factor. Right now i do not know how to calculate added resistance of bigger wingspan and large aileron deflections, so this is an open invitation for motivated number persons to contribute :).
