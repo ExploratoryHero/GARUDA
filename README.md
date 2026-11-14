@@ -14,12 +14,25 @@ Airfoils of the project can be found here <a href="https://github.com/jxjo/Airfo
 
 <img width="2204" height="766" alt="grafik" src="https://github.com/user-attachments/assets/34acf810-af5f-4f1d-b788-afc262fa3858" />
 Re250k polars, with reference to TAIPAN, key performance parameter for TOW 2,3kg
-
-While the cld/cd calculations predict a 2-5% better performance compared to the current top model (VJX.glide), theres still the risk that moving such a huge ship in low lift conditions requires more force then is gained through the form factor. Right now i do not know how to calculate added resistance of bigger wingspan and large aileron deflections, so this is an open invitation for motivated number persons to contribute :).
+<br>
+<p></p>
+<img width="2238" height="317" alt="grafik" src="https://github.com/user-attachments/assets/72e25f20-5ef1-4dd1-83ef-b1a860aef981" />
+theoretical CL/CD performance gap to VJX.glide @250k/15m/s
+<br>
+<p></p>
+While the cld/cd calculations predict a 2-5% better performance compared to the current top model (VJX.glide) and also TAIPAN, theres still the risk that moving such a huge ship in low lift conditions requires more force then is gained through the form factor. Right now i do not know how to calculate added resistance of bigger wingspan and large aileron deflections, so this is an open invitation for motivated number persons to contribute :).
 I hope that these risks can be mitigated be careful flying and smart building (with less weight in the outer wing for example).
+<br>
+<p></p>
+<h2>build</h2>
+Since alomst everyone of us does this stuff in their freetime, finances are always a critical point. This is why i really love the opensource movement, not just because its free but because everyone can contribute and gain something. My part is contributing all the F3F experience, the design ideas and theoretical processes behind that that idea to get you insights and an F3F design ready to build.
+The step from theory to reality is one of the biggest. The costs for milling the master positives are huge and should be considered carefully and their usage should be maximized. Because of that, there will be a donation system for all people who want to contribute or even build a GARUDA themselves.
+Instead of milling PMMA negative moulds, i will produce PMMA master moulds. That way all contributors with a donation to my <a href=https://www.patreon.com/cw/exploratoryhero>PATREON</a> greater than 500€ will get the opportunity to copy a mould from the GARUDA master. You gain a massive cost and work advantage against making them yourselves and support further projects like this. Further packages may be implemented if theres a demand.
 
 <h2>acknowledgements</h2>
-Great thanks go out to JxJo and his helpers, without whom this would not be possible! 
-
-<h2>last words</h2>
+Great thanks go out to <a href=https://github.com/jxjo>JxJo</a> and his helpers, without whom this would not be possible! The tools he developed, like <a href=https://github.com/jxjo/PlanformCreator2>PLANFORMCREATOR2</a> and <a href=https://github.com/jxjo/AirfoilEditor>AIRFOILEDITOR</a> are among the most userfriendly tools i know.
+<br>
+<p></p>
+<h2>epilogue</h2>
 This is my first purely open project, so please be gentle.
+Although i already sucessfolluy developed the projects GRANE, MAMBA GTE and TAIPAN until their usage in WorldCup and WorldChampionship competitions, the design is considered to be WIP until practical experience is gained.
