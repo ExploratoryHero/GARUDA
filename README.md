@@ -33,6 +33,7 @@ Instead of milling PMMA negative moulds, i will produce PMMA master moulds. That
 Great thanks go out to <a href=https://github.com/jxjo>JxJo</a> and his helpers, without whom this would not be possible! The tools he developed, like <a href=https://github.com/jxjo/PlanformCreator2>PLANFORMCREATOR2</a> and <a href=https://github.com/jxjo/AirfoilEditor>AIRFOILEDITOR</a> are among the most userfriendly tools i know.
 <br>
 <p></p>
+The design history of the VJX project can be found <a href=https://www.rc-network.de/threads/projekt-vjx-glide.11961376/>HERE</a>. Its in german, but what is AI for, if not translating this?
 <h2>epilogue</h2>
 This is my first purely open project, so please be gentle.
 Although i already sucessfolluy developed the projects GRANE, MAMBA GTE and TAIPAN until their usage in WorldCup and WorldChampionship competitions, the design is considered to be WIP until practical experience is gained.
