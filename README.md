@@ -1,7 +1,8 @@
 # GARUDA
+<p><em>A slow but fast F3F glider</em></p>
+<img width="3024" height="378" alt="03_Garuda_Achterkurs_Breit_8x1" src="https://github.com/user-attachments/assets/74637022-c0f9-4482-96fc-9ae63291f8f6" />
 
 <img width="2234" height="1165" alt="grafik" src="https://github.com/user-attachments/assets/c885fdb4-80f1-4e84-ba7d-4d7d2232d3ff" />
-<p><em>A slow but fast F3F glider</em></p>
 
 <h2>introduction</h2>
 Lets describe this glider as a VJX.glide on steroids. Why? The current philosophie in F3F competition is to have 2 types of gliders in your lineup. One for very fast conditions (40-45s and below to world record time) and one for light to mid conditions (40-45 and above). This philosophy is explained superbly in the documentation of the VJX-project from <a href=https://github.com/jxjo>JxJo</a> & friends. Since the TAIPAN (based on <a href=https://github.com/jxjo/VJX/tree/main/wing.race>VJX.race</a> and the <a href=https://github.com/jxjo/Airfoils/tree/main/JX-GS>JX-GS3 airfoils</a>) is my current glider for fast conditions i am in dire need of a modern glider purely designed for light conditions. The concept of <a href=https://github.com/jxjo/Airfoils/tree/main/JX-GT>JX-GT</a> airfoils (<a href=https://competition-tools.com/Flugmodelle/MAMBA-Serie/MAMBA-GT/>MAMBA GTE</a>, ENKI) is a step in the right direction, but it is not maxed out for international competition tasks. To simply copy a <a href=https://github.com/jxjo/VJX/tree/main/wing.glide>VJX.glide</a> would be boring too and no progress would be made. So what needs to be changed, to get even better in said light conditions? Turns out the factor of aspect ratio seems to massively helps (at least theoretically) in these conditions, so this needs to be tried. I will document this process in this project.
@@ -24,6 +25,15 @@ While the cld/cd calculations predict a 2-5% better performance compared to the 
 I hope that these risks can be mitigated be careful flying and smart building (with less weight in the outer wing for example).
 <br>
 <p></p>
+<h2>design goals</h2>
+When the step from theory to reality is made, its easiest to compare the design to other competing model designs. The goal is to beat all current glider designs in the respective CL-range in theory first.<br><p></p>
+lets start with the following designs to compete against:<br>
+- VJX.glide (JxJo/Perner)<br>
+- GRANE (Schufmann/Steidle)<br>
+- Freestyler 4 (AHerrig)<br>
+<p></p>
+All of the above have exceptional capabilities in low wind / high CL environment and in case of the GRANE and FS4 have a good feeling in the hands of the author. First comparisons (with updated GP3airfoil in GARUDAv4) have been made in the issue tab.
+
 <h2>build</h2>
 Since alomst everyone of us does this stuff in their freetime, finances are always a critical point. This is why i really love the opensource movement, not just because its free but because everyone can contribute and gain something. My part is contributing all the F3F experience, the design ideas and theoretical processes behind that that idea to get you insights and an F3F design ready to build.
 The step from theory to reality is one of the biggest. The costs for milling the master positives are huge and should be considered carefully and their usage should be maximized. Because of that, there will be a donation system for all people who want to contribute or even build a GARUDA themselves.
