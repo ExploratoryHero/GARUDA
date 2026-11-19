@@ -9,7 +9,8 @@
   "airfoil_nick_base":100,
   "reference_pc2_files":[
     {
-      "path":"//192.168.178.24/Erik/00_CLOUD/00_VENTARES/08_Taipan/Taipan_as build.pc2"
+      "path":"//192.168.178.24/Erik/00_CLOUD/00_VENTARES/08_Taipan/Taipan_as build.pc2",
+      "scale_mode":"Root & Span"
     },
     {
       "path":"//192.168.178.24/Erik/00_CLOUD/01_Aerodynamik/03_Entw\u00fcrfe/VJX/VJX.glide.pc2",
@@ -75,14 +76,14 @@
     "chord_style":"Bezier",
     "px":[
       0.0,
-      0.791122,
+      0.904801,
       1.0,
       1.0
     ],
     "py":[
       1.0,
       1.0,
-      0.467446,
+      0.585554,
       0.013043
     ]
   },
